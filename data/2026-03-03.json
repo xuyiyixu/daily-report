@@ -19,11 +19,11 @@
     },
     {
       "title": "路透社：Anthropic发布AI升级版，编程和金融能力显著提升",
-      "snippet": "Anthropic推出新版Claude模型，可更长时间可靠地执行任务，在编程和金融领域表现出明显进步，市场对AI软件股反应复杂。",
+      "snippet": "Anthropic推出新版Claude模型，可更长时间可靠地执行任务，在编程和金融领域表现出明显进步。",
       "url": "https://www.reuters.com/business/retail-consumer/anthropic-releases-ai-upgrade-market-punishes-software-stocks-2026-02-05/"
     },
     {
-      "title": "纽约时报：中国家长把AI当"作业外包"工具",
+      "title": "纽约时报：中国家长把AI当作业外包工具",
       "snippet": "中国家长正大量使用AI聊天机器人帮助孩子完成作业，AI辅助教育在中国迅速普及，引发教育公平和学习效果的讨论。",
       "url": "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html"
     }
@@ -36,7 +36,7 @@
     },
     {
       "title": "路透社：中国外长王毅谴责美以袭击，呼吁立即停火",
-      "snippet": "中国外长王毅表示美以对伊朗的袭击"不可接受"，要求立即停火并恢复对话，强调尊重伊朗主权和领土完整。",
+      "snippet": "中国外长王毅表示美以对伊朗的袭击不可接受，要求立即停火并恢复对话，强调尊重伊朗主权和领土完整。",
       "url": "https://www.reuters.com/world/asia-pacific/china-urges-immediate-ceasefire-after-us-israel-strike-iran-2026-03-01/"
     },
     {
@@ -45,35 +45,35 @@
       "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
     },
     {
-      "title": "彭博社：中国否认向伊朗提供武器，但立场强硬",
+      "title": "彭博社：中国否认向伊朗提供武器，但外交立场强硬",
       "snippet": "彭博社报道中国不太可能直接向伊朗提供军事支持，外交部否认向伊朗提供超音速反舰导弹的传言，但外交上持续向美以施压。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-02/china-showing-few-signs-it-will-directly-supply-arms-to-iran"
     },
     {
-      "title": "澳大利亚外交贸易部：WTO第14届部长级会议将于3月下旬在喀麦隆举行",
-      "snippet": "WTO MC14定于2026年3月26-29日在喀麦隆雅温得举行，多国正借此推动重建开放贸易体系，中美贸易政策走向成为焦点。",
+      "title": "WTO：第14届部长级会议将于3月下旬在喀麦隆举行",
+      "snippet": "WTO MC14定于3月26-29日在喀麦隆雅温得举行，多国正借此推动重建开放贸易体系，中美贸易政策走向成为焦点。",
       "url": "https://www.dfat.gov.au/trade/organisations/wto/wto-ministerial-conferences"
     }
   ],
   "startup": [
     {
       "title": "彭博社：OpenAI完成1100亿美元融资，估值达8400亿美元",
-      "snippet": "OpenAI完成史上最大私募融资轮，亚马逊、英伟达、软银领投，估值高达8400亿美元，标志着AI投资热潮进入新高度。",
+      "snippet": "亚马逊、英伟达、软银领投，标志着AI投资热潮进入新高度，为史上最大私募融资轮之一。",
       "url": "https://www.bloomberg.com/news/articles/2026-02-27/openai-finalizes-110-billion-funding-at-730-billion-valuation"
     },
     {
       "title": "TechCrunch：医疗AI公司MatX获5亿美元融资",
-      "snippet": "专注医疗健康的AI芯片公司MatX完成5亿美元融资，由QC Capital和The Raine Group领投，显示医疗AI赛道持续受资本青睐。",
+      "snippet": "专注医疗健康的AI芯片公司MatX完成5亿美元融资，由QC Capital和The Raine Group领投，医疗AI赛道持续受资本青睐。",
       "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
     },
     {
-      "title": "Crunchbase：2026年3月AI创业融资综述——轨道数据中心、AI分析平台领跑",
-      "snippet": "3月创业融资呈现多元化趋势，从AI驱动的分析平台到轨道数据中心，投资者正在押注变革性技术，融资规模从种子轮到超大型交易不等。",
+      "title": "Crunchbase：2026年3月AI创业融资综述",
+      "snippet": "从AI分析平台到轨道数据中心，投资者正在押注变革性技术，融资规模从种子轮到超大型交易不等。",
       "url": "https://blog.mean.ceo/tech-startup-funding-news-march-2026/"
     },
     {
-      "title": "Crunchbase：VC新动向——SparkLabs推出2000万美元新基金，聚焦细分市场",
-      "snippet": "SparkLabs宣布2000万美元新基金，专注细分市场和GP-LP关系重构，反映2026年风险投资策略向精细化转型的趋势。",
+      "title": "Crunchbase：SparkLabs推出2000万美元新基金，聚焦细分市场",
+      "snippet": "反映2026年风险投资策略向精细化转型的趋势，GP-LP关系重构成为新议题。",
       "url": "https://blog.mean.ceo/venture-capital-news-march-2026/"
     },
     {
