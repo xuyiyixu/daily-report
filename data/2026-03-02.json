@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-02",
+  "generated": "2026-03-02T15:47:00.000Z",
+  "ai": [
+    {
+      "title": "BBC中文：中国AI公司加速出海，香港成为关键一站",
+      "snippet": "智谱AI、伊露维达CoreX、锐视医疗等多家中国AI公司接连在港交所上市，香港成为中国AI企业国际化的重要跳板。",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4l0ql04jko/simp"
+    },
+    {
+      "title": "BBC：研究预测AI自主性可能在2027年实现，十年内或导致人类灭绝",
+      "snippet": "一篇研究论文预测AI自主性可能在2027年实现，并可能在十年内导致人类灭绝，引发广泛关注。",
+      "url": "https://www.bbc.com/technology/artificial-intelligence"
+    },
+    {
+      "title": "彭博社：Jack Dorsey在Block裁员4000人引发AI洗白质疑",
+      "snippet": "Block以AI为由裁员近半数员工，引发争议：这是真正的技术进步还是利用AI恐慌掩盖传统裁员？",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/jack-dorsey-s-4-000-job-cuts-at-block-arouse-suspicions-of-ai-washing"
+    },
+    {
+      "title": "彭博社：AI对就业和经济的影响",
+      "snippet": "探索AI技术如何影响劳动力市场、全球经济以及各行业就业的最新新闻和分析。",
+      "url": "https://www.bloomberg.com/ai-jobs-economy"
+    },
+    {
+      "title": "彭博社：AI最新报道",
+      "snippet": "了解AI如何影响商业，关于人工智能进展、如何使用AI以及如何投资AI的最新新闻。",
+      "url": "https://www.bloomberg.com/ai"
+    }
+  ],
+  "world": [
+    {
+      "title": "新华社：外交部称国际社会应坚决抵制日本新型军国主义妄动",
+      "snippet": "外交部就日本军事动向发表声明，呼吁国际社会警惕和抵制日本新型军国主义倾向。",
+      "url": "http://www.news.cn/world/"
+    },
+    {
+      "title": "金融时报：地缘政治综合报道",
+      "snippet": "全面报道全球地缘政治发展，探索地缘政治问题、政治和国际关系的最新新闻、分析和观点。",
+      "url": "https://www.ft.com/geopolitics"
+    },
+    {
+      "title": "BBC：鲁比奥警告欧洲地缘政治进入新时代",
+      "snippet": "美国务卿在慕尼黑安全会议前表示，我们生活在地缘政治的新时代，需要重新审视角色定位。",
+      "url": "https://www.bbc.com/news/articles/c99jxryd9xko"
+    },
+    {
+      "title": "地缘政治监测：全球风险分析",
+      "snippet": "提供独立客观的地缘政治新闻分析，报道供应链安全、全球军事冲突和宏观经济趋势。",
+      "url": "https://www.geopoliticalmonitor.com/"
+    },
+    {
+      "title": "经济学人：地缘政治",
+      "snippet": "探索我们对战争、外交和大国竞争的报道，以及关于世界事务的Telegram专栏。",
+      "url": "https://www.economist.com/topics/geopolitics"
+    }
+  ],
+  "startup": [
+    {
+      "title": "36氪：头部人形机器人关节公司完成C+轮融资",
+      "snippet": "单品销量第一、年营收翻倍，累计服务超2000家海内外客户，中国人形机器人产业链持续发展。",
+      "url": "https://36kr.com/information/web_news/"
+    },
+    {
+      "title": "Crunchbase：2025年北美创业融资飙升46%，AI热潮推动",
+      "snippet": "2025年美国和加拿大公司获得2800亿美元投资，创四年来最高年度总额，融资同比增长46%。",
+      "url": "https://news.crunchbase.com/venture/north-american-startup-funding-2025-data-ai-us-investment/"
+    },
+    {
+      "title": "Crunchbase：太空科技创业融资持续高飞",
+      "snippet": "2025年太空科技和卫星领域风险投资达到近120亿美元的高点，2026年开局同样强劲。",
+      "url": "https://news.crunchbase.com/venture/space-tech-startup-funding-flying-high/"
+    },
+    {
+      "title": "Crunchbase：2025年全球风投激增，创业交易和估值创历史新高",
+      "snippet": "2025年美国公司获得2740亿美元创业资本，占全球创业融资的64%，较2024年的56%大幅上升。",
+      "url": "https://news.crunchbase.com/venture/funding-data-third-largest-year-2025/"
+    },
+    {
+      "title": "Crunchbase：自动驾驶创业公司Overland AI获1亿美元融资",
+      "snippet": "西雅图自动驾驶汽车创业公司员工一年内从58人增至101人，获1亿美元用于向美军部署自主地面系统。",
+      "url": "https://www.crunchbase.com/"
+    }
+  ]
+}
