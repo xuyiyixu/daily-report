@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-03",
+  "generated": "2026-03-03T01:05:00.000Z",
+  "ai": [
+    {
+      "title": "彭博社：MiniMax营收暴涨159%，中国AI竞争白热化",
+      "snippet": "中国AI公司MiniMax发布2025年财报，营收同比增长159%，最新模型M2.5年化经常性收入已超1.5亿美元，UBS看好其长期增长潜力。",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/china-ai-pioneer-minimax-more-than-doubles-sales-in-hot-market"
+    },
+    {
+      "title": "CNBC：DeepSeek之后，中国又发布5款新AI模型",
+      "snippet": "MiniMax M2.5、Moonshot Kimi K2.5、Z.ai GLM-5等中国AI公司在2月密集发布新模型，UBS分析师最看好MiniMax的商业化前景。",
+      "url": "https://www.cnbc.com/2026/03/01/forget-deepseek-of-chinas-5-new-ai-models-ubs-prefers-this-one.html"
+    },
+    {
+      "title": "TechCrunch：OpenAI完成史上最大私募融资——1100亿美元",
+      "snippet": "OpenAI宣布完成1100亿美元融资，估值达8400亿美元，投资方包括亚马逊、英伟达和软银，资金将用于算力扩张和人才招募。",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
+    },
+    {
+      "title": "路透社：Anthropic发布AI升级版，编程和金融能力显著提升",
+      "snippet": "Anthropic推出新版Claude模型，可更长时间可靠地执行任务，在编程和金融领域表现出明显进步，市场对AI软件股反应复杂。",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-releases-ai-upgrade-market-punishes-software-stocks-2026-02-05/"
+    },
+    {
+      "title": "纽约时报：中国家长把AI当"作业外包"工具",
+      "snippet": "中国家长正大量使用AI聊天机器人帮助孩子完成作业，AI辅助教育在中国迅速普及，引发教育公平和学习效果的讨论。",
+      "url": "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html"
+    }
+  ],
+  "world": [
+    {
+      "title": "卫报：美以对伊朗发动大规模军事打击，中东局势急剧升级",
+      "snippet": "美国和以色列于2月28日起对伊朗发动联合军事打击，首12小时内美军实施逾900次空袭，伊朗最高领袖哈梅内伊据报已死亡，中东局势进入危险新阶段。",
+      "url": "https://www.theguardian.com/world/2026/mar/01/iran-us-israel-new-attacks-escalation-threat-middle-east"
+    },
+    {
+      "title": "路透社：中国外长王毅谴责美以袭击，呼吁立即停火",
+      "snippet": "中国外长王毅表示美以对伊朗的袭击"不可接受"，要求立即停火并恢复对话，强调尊重伊朗主权和领土完整。",
+      "url": "https://www.reuters.com/world/asia-pacific/china-urges-immediate-ceasefire-after-us-israel-strike-iran-2026-03-01/"
+    },
+    {
+      "title": "纽约时报：特朗普预测战争将持续数周，鲁比奥不排除地面部队",
+      "snippet": "特朗普表示摧毁伊朗导弹能力是首要目标，国务卿鲁比奥称不排除派遣地面部队，美国国务院已要求所有美国公民撤离中东。",
+      "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
+    },
+    {
+      "title": "彭博社：中国否认向伊朗提供武器，但立场强硬",
+      "snippet": "彭博社报道中国不太可能直接向伊朗提供军事支持，外交部否认向伊朗提供超音速反舰导弹的传言，但外交上持续向美以施压。",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/china-showing-few-signs-it-will-directly-supply-arms-to-iran"
+    },
+    {
+      "title": "澳大利亚外交贸易部：WTO第14届部长级会议将于3月下旬在喀麦隆举行",
+      "snippet": "WTO MC14定于2026年3月26-29日在喀麦隆雅温得举行，多国正借此推动重建开放贸易体系，中美贸易政策走向成为焦点。",
+      "url": "https://www.dfat.gov.au/trade/organisations/wto/wto-ministerial-conferences"
+    }
+  ],
+  "startup": [
+    {
+      "title": "彭博社：OpenAI完成1100亿美元融资，估值达8400亿美元",
+      "snippet": "OpenAI完成史上最大私募融资轮，亚马逊、英伟达、软银领投，估值高达8400亿美元，标志着AI投资热潮进入新高度。",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/openai-finalizes-110-billion-funding-at-730-billion-valuation"
+    },
+    {
+      "title": "TechCrunch：医疗AI公司MatX获5亿美元融资",
+      "snippet": "专注医疗健康的AI芯片公司MatX完成5亿美元融资，由QC Capital和The Raine Group领投，显示医疗AI赛道持续受资本青睐。",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
+    },
+    {
+      "title": "Crunchbase：2026年3月AI创业融资综述——轨道数据中心、AI分析平台领跑",
+      "snippet": "3月创业融资呈现多元化趋势，从AI驱动的分析平台到轨道数据中心，投资者正在押注变革性技术，融资规模从种子轮到超大型交易不等。",
+      "url": "https://blog.mean.ceo/tech-startup-funding-news-march-2026/"
+    },
+    {
+      "title": "Crunchbase：VC新动向——SparkLabs推出2000万美元新基金，聚焦细分市场",
+      "snippet": "SparkLabs宣布2000万美元新基金，专注细分市场和GP-LP关系重构，反映2026年风险投资策略向精细化转型的趋势。",
+      "url": "https://blog.mean.ceo/venture-capital-news-march-2026/"
+    },
+    {
+      "title": "南华早报：中国AI创业公司加速出海，香港成国际化跳板",
+      "snippet": "智谱AI等多家中国AI公司借助香港资本市场走向国际，中国政府将AI列为经济议程核心，2026年政策驱动的AI创新增长可期。",
+      "url": "https://www.scmp.com/tech/tech-war/article/3338528/tech-war-china-takes-confident-strides-develop-more-ai-innovation-2026"
+    }
+  ]
+}
