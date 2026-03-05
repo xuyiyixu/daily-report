@@ -167,11 +167,12 @@
         }
 
         function renderReport(data) {
+            const s = data.sections;
             const html = `
                 <div class="sections">
-                    ${renderSection('🤖 AI 前沿', data.ai)}
-                    ${renderSection('🚀 产品创业', data.startup)}
-                    ${renderSection('🌐 国际形势', data.world)}
+                    ${renderSection('🤖 AI 前沿', s.ai_tech?.items)}
+                    ${renderSection('🚀 产品创业', s.startup_product?.items)}
+                    ${renderSection('🌐 国际形势', s.geopolitics?.items)}
                 </div>
             `;
             document.getElementById('content').innerHTML = html;
@@ -190,7 +191,7 @@
             const newsItems = items.map(item => `
                 <div class="news-item">
                     <div class="news-title">${item.title}</div>
-                    <div class="news-snippet">${item.snippet}</div>
+                    <div class="news-snippet">${item.summary || item.snippet}</div>
                     ${item.url ? `<a href="${item.url}" target="_blank" class="news-link">查看详情 →</a>` : ''}
                 </div>
             `).join('');
