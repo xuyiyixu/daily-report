@@ -6,8 +6,8 @@
       "title": "AI科技",
       "items": [
         {
-          "title": "国防承包商纷纷放弃 Claude，五角大楼"供应链风险"标签引发连锁反应",
-          "summary": "自国防部长 Pete Hegseth 将 Anthropic 列为"供应链风险"后，与美国军方有业务往来的国防承包商正在抢先放弃 Claude，即便 Anthropic 尚未在法律上被正式封禁。多家公司表示"出于谨慎"提前切换，Anthropic 的企业客户流失风险骤升。",
+          "title": "国防承包商纷纷放弃 Claude，五角大楼\"供应链风险\"标签引发连锁反应",
+          "summary": "自国防部长 Pete Hegseth 将 Anthropic 列为\"供应链风险\"后，与美国军方有业务往来的国防承包商正在抢先放弃 Claude，即便 Anthropic 尚未在法律上被正式封禁。多家公司表示\"出于谨慎\"提前切换，Anthropic 的企业客户流失风险骤升。",
           "source": "The Verge / CNBC",
           "url": "https://www.theverge.com/ai-artificial-intelligence"
         },
@@ -19,7 +19,7 @@
         },
         {
           "title": "AI 翻译污染维基百科：幻觉内容混入数千篇词条",
-          "summary": "非营利组织 Open Knowledge Association 使用 AI 批量翻译维基百科词条，导致大量"幻觉"内容混入，包括捏造来源、替换引用、无关信息等。维基百科编辑已开始限制该组织的贡献者权限，这是 AI 内容质量问题的又一典型案例。",
+          "summary": "非营利组织 Open Knowledge Association 使用 AI 批量翻译维基百科词条，导致大量\"幻觉\"内容混入，包括捏造来源、替换引用、无关信息等。维基百科编辑已开始限制该组织的贡献者权限，这是 AI 内容质量问题的又一典型案例。",
           "source": "The Verge / 404 Media",
           "url": "https://www.theverge.com/ai-artificial-intelligence"
         },
@@ -41,7 +41,7 @@
       "title": "国际形势",
       "items": [
         {
-          "title": "Polymarket 短暂上线"2026年核武器引爆"赌注，交易额近百万美元后紧急下架",
+          "title": "Polymarket 短暂上线\"2026年核武器引爆\"赌注，交易额近百万美元后紧急下架",
           "summary": "预测市场平台 Polymarket 周二短暂开放了关于 2026 年是否会发生核武器爆炸的赌注，数小时内交易额接近百万美元，随后平台紧急下架。这一事件折射出中东局势持续紧张背景下，市场对核冲突风险的真实担忧。",
           "source": "The Verge / 404 Media",
           "url": "https://www.theverge.com/"
@@ -89,7 +89,7 @@
         },
         {
           "title": "Xbox AI 高光剪辑功能上线：AI 自动录屏并生成游戏精彩片段",
-          "summary": "微软为 Xbox Ally X 掌机推出 AI 驱动的"赛后回顾"功能，利用内置 NPU 自动录制游戏画面并生成高光剪辑。目前支持《Among Us》《艾尔登法环》《堡垒之夜》等七款游戏，是 AI 在消费电子场景的典型落地。",
+          "summary": "微软为 Xbox Ally X 掌机推出 AI 驱动的\"赛后回顾\"功能，利用内置 NPU 自动录制游戏画面并生成高光剪辑。目前支持《Among Us》《艾尔登法环》《堡垒之夜》等七款游戏，是 AI 在消费电子场景的典型落地。",
           "source": "The Verge",
           "url": "https://www.theverge.com/"
         },
@@ -101,7 +101,7 @@
         },
         {
           "title": "Pro-Human Declaration 获多个组织联署，呼吁限制 AI 自主决策权",
-          "summary": "美国教师联合会、基督教领袖大会、进步民主党人等组织联署"亲人类宣言"，要求在教育、医疗、司法等关键领域限制 AI 自主决策权，保留人类最终控制权。史蒂夫·班农也出人意料地加入联署。",
+          "summary": "美国教师联合会、基督教领袖大会、进步民主党人等组织联署\"亲人类宣言\"，要求在教育、医疗、司法等关键领域限制 AI 自主决策权，保留人类最终控制权。史蒂夫·班农也出人意料地加入联署。",
           "source": "The Verge",
           "url": "https://www.theverge.com/ai-artificial-intelligence"
         }
