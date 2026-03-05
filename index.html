@@ -167,12 +167,16 @@
         }
 
         function renderReport(data) {
+            // Support both new format (data.sections.ai_tech) and old format (data.ai)
             const s = data.sections;
+            const aiItems = s ? s.ai_tech?.items : (data.ai || []);
+            const startupItems = s ? s.startup_product?.items : (data.startup || []);
+            const worldItems = s ? s.geopolitics?.items : (data.world || []);
             const html = `
                 <div class="sections">
-                    ${renderSection('🤖 AI 前沿', s.ai_tech?.items)}
-                    ${renderSection('🚀 产品创业', s.startup_product?.items)}
-                    ${renderSection('🌐 国际形势', s.geopolitics?.items)}
+                    ${renderSection('🤖 AI 前沿', aiItems)}
+                    ${renderSection('🚀 产品创业', startupItems)}
+                    ${renderSection('🌐 国际形势', worldItems)}
                 </div>
             `;
             document.getElementById('content').innerHTML = html;
