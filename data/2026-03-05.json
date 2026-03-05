@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-05",
+  "generated_at": "2026-03-05T16:45:00+08:00",
+  "sections": {
+    "ai_tech": {
+      "title": "AI科技",
+      "items": [
+        {
+          "title": "国防承包商纷纷放弃 Claude，五角大楼"供应链风险"标签引发连锁反应",
+          "summary": "自国防部长 Pete Hegseth 将 Anthropic 列为"供应链风险"后，与美国军方有业务往来的国防承包商正在抢先放弃 Claude，即便 Anthropic 尚未在法律上被正式封禁。多家公司表示"出于谨慎"提前切换，Anthropic 的企业客户流失风险骤升。",
+          "source": "The Verge / CNBC",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "OpenAI 正在开发 GitHub 竞争对手，或与微软正面交锋",
+          "summary": "受近期 GitHub 多次宕机事件刺激，OpenAI 正处于开发自有代码仓库的早期阶段，预计数月后推出。该产品将向 OpenAI 客户开放，这意味着 OpenAI 将与持有其大量股份的微软直接竞争，关系微妙。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "AI 翻译污染维基百科：幻觉内容混入数千篇词条",
+          "summary": "非营利组织 Open Knowledge Association 使用 AI 批量翻译维基百科词条，导致大量"幻觉"内容混入，包括捏造来源、替换引用、无关信息等。维基百科编辑已开始限制该组织的贡献者权限，这是 AI 内容质量问题的又一典型案例。",
+          "source": "The Verge / 404 Media",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "Meta 推出 AI 购物助手，与 ChatGPT、Gemini 正面竞争",
+          "summary": "Meta 正在美国测试 AI 购物研究工具，功能对标 ChatGPT 和 Gemini 的购物功能。这是 Meta 在 AI 应用层面的最新布局，也标志着各大科技巨头在 AI 购物场景的竞争全面升温。",
+          "source": "The Verge / Bloomberg",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "中国两会聚焦 AI 发展战略，人工智能写入政府工作报告核心议程",
+          "summary": "2026年全国两会期间，人工智能产业发展被列为政府工作报告重点议题。多位代表委员提出加快大模型国产化、推动 AI 与实体经济深度融合的提案，国家层面对 AI 战略的重视程度进一步提升。",
+          "source": "新华社",
+          "url": "https://www.xinhuanet.com"
+        }
+      ]
+    },
+    "geopolitics": {
+      "title": "国际形势",
+      "items": [
+        {
+          "title": "Polymarket 短暂上线"2026年核武器引爆"赌注，交易额近百万美元后紧急下架",
+          "summary": "预测市场平台 Polymarket 周二短暂开放了关于 2026 年是否会发生核武器爆炸的赌注，数小时内交易额接近百万美元，随后平台紧急下架。这一事件折射出中东局势持续紧张背景下，市场对核冲突风险的真实担忧。",
+          "source": "The Verge / 404 Media",
+          "url": "https://www.theverge.com/"
+        },
+        {
+          "title": "美国电网面临数据中心电力需求激增压力，AI 公司被要求承担电网升级费用",
+          "summary": "随着 AI 数据中心用电量持续飙升，美国电网承压明显。相关法规正推动科技公司承担电网升级所需费用，这将显著增加 AI 基础设施的运营成本，并可能影响数据中心选址决策。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "中东局势持续动荡，伊朗核问题谈判陷入僵局",
+          "summary": "美以对伊朗军事打击后，国际社会斡旋努力受阻。伊朗方面拒绝在军事压力下重启核谈判，欧盟特使穿梭外交收效甚微。中国外交部再次呼吁各方通过联合国框架寻求政治解决方案。",
+          "source": "新华社",
+          "url": "https://www.xinhuanet.com"
+        },
+        {
+          "title": "OpenAI 与五角大楼协议引发全球 AI 治理讨论，多国呼吁建立国际规范",
+          "summary": "OpenAI 与美国国防部签署军事 AI 协议一事持续发酵，欧盟、英国及多个亚洲国家政府相继表态，呼吁建立 AI 军事应用的国际规范框架，防止 AI 武器化竞赛失控。",
+          "source": "Financial Times",
+          "url": "https://www.ft.com"
+        },
+        {
+          "title": "反 AI 军事化运动升温：QuitGPT 组织宣称逾 150 万人参与抵制",
+          "summary": "草根运动 QuitGPT 宣称已有超过 150 万人参与抵制 OpenAI 的五角大楼合作，抗议者计划在 OpenAI 旧金山总部外集会，聚焦 AI 驱动的大规模国内监控和自主武器系统两大议题。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        }
+      ]
+    },
+    "startup_product": {
+      "title": "产品创业",
+      "items": [
+        {
+          "title": "Google AI Ultra 订阅用户可将笔记转化为个性化动画视频",
+          "summary": "Google 为 AI Ultra 订阅用户推出新功能：可将个人笔记转化为完整动画视频。这是 Google 在 AI 内容创作工具上的最新落地，也是其与 OpenAI、Anthropic 争夺高端订阅用户的重要举措。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "title": "Keychron 推出可折叠无线键盘 B11 Pro，售价 64.99 美元",
+          "summary": "外设品牌 Keychron 发布新品 B11 Pro 折叠键盘，采用人体工学 Alice 分体布局，支持蓝牙、USB-C 和 2.4GHz 三模连接，可通过网页应用自定义按键映射，主打便携办公场景。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/"
+        },
+        {
+          "title": "Xbox AI 高光剪辑功能上线：AI 自动录屏并生成游戏精彩片段",
+          "summary": "微软为 Xbox Ally X 掌机推出 AI 驱动的"赛后回顾"功能，利用内置 NPU 自动录制游戏画面并生成高光剪辑。目前支持《Among Us》《艾尔登法环》《堡垒之夜》等七款游戏，是 AI 在消费电子场景的典型落地。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/"
+        },
+        {
+          "title": "36氪：国内 AI Agent 创业潮涌现，垂直行业落地成新战场",
+          "summary": "据36氪报道，2026年初国内 AI Agent 创业项目数量激增，法律、医疗、教育、财务等垂直行业成为主要落地场景。多家头部投资机构表示，相比通用大模型，更看好有明确行业壁垒的 Agent 应用层创业公司。",
+          "source": "36氪",
+          "url": "https://www.36kr.com"
+        },
+        {
+          "title": "Pro-Human Declaration 获多个组织联署，呼吁限制 AI 自主决策权",
+          "summary": "美国教师联合会、基督教领袖大会、进步民主党人等组织联署"亲人类宣言"，要求在教育、医疗、司法等关键领域限制 AI 自主决策权，保留人类最终控制权。史蒂夫·班农也出人意料地加入联署。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence"
+        }
+      ]
+    }
+  }
+}

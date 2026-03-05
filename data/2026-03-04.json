@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-03-04T09:20:00+08:00",
+  "sections": {
+    "ai_tech": {
+      "title": "AI科技",
+      "items": [
+        {
+          "title": "阿里巴巴 Qwen 技术负责人突然离职，引发业界震动",
+          "summary": "阿里巴巴 Qwen 团队核心技术负责人 Junyang Lin 宣布从项目中"退出"，未说明原因。此前一天，阿里刚发布了 Qwen 3.5 小模型系列（0.8B~9B 参数）。多位同事和合作伙伴称其离开是"一个时代的终结"，Hugging Face APAC 生态负责人称这是 Qwen 项目的"巨大损失"。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
+        },
+        {
+          "title": "ChatGPT 推出 GPT-5.3 Instant 模型，调整情绪化回应风格",
+          "summary": "OpenAI 发布新版 GPT-5.3 Instant 模型，重点改进之一是不再动辄叫用户"冷静"，减少过度情绪化的回应。此前用户对 ChatGPT 过于"说教"的风格多有抱怨。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/"
+        },
+        {
+          "title": "Claude Code 上线语音模式",
+          "summary": "Anthropic 旗下编程助手 Claude Code 推出语音交互功能，开发者可通过语音与 AI 结对编程。这是继 Claude 登顶 App Store 后 Anthropic 的又一产品动作。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"
+        },
+        {
+          "title": "ChatGPT 因美国国防部合同遭用户大规模卸载，卸载量激增 295%",
+          "summary": "OpenAI 与五角大楼签署军事合作协议后，ChatGPT 应用卸载量在一天内暴增 295%，大量用户转向 Claude。这场争议也让 Anthropic 的 Claude 一度登顶 App Store 免费榜。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+        },
+        {
+          "title": "AI 军事应用争议持续：美国科技工作者联名要求撤销对 Anthropic 的"供应链风险"标签",
+          "summary": "五角大楼此前将 Anthropic 列为"供应链风险"，引发 Google、OpenAI 等公司员工联名抗议，要求国会和国防部撤销该标签。这场 AI 与军事的边界之争正在重塑整个行业的政治格局。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+        }
+      ]
+    },
+    "geopolitics": {
+      "title": "国际形势",
+      "items": [
+        {
+          "title": "美以联合空袭伊朗，击杀最高领袖哈梅内伊，中东局势骤然升级",
+          "summary": "美国与以色列对伊朗发动大规模空袭，伊朗最高领袖哈梅内伊及多名高层领导人在袭击中身亡。伊朗随即以导弹反击，波及阿联酋等周边国家，亚马逊中东数据中心遭波及停服。霍尔木兹海峡航运受阻，全球供应链面临冲击。（Sky News）",
+          "source": "Sky News / TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"
+        },
+        {
+          "title": "伊朗互联网全面中断，黑客入侵祈祷 App 发送"起义"通知",
+          "summary": "空袭期间，伊朗互联网连接骤降至近零。黑客入侵伊朗祈祷应用 BadeSaba（逾 500 万下载），向用户推送反政府消息，呼吁民众起义。Cloudflare 和 Kentik 均确认伊朗网络全面瘫痪。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"
+        },
+        {
+          "title": "英国宣布向塞浦路斯部署 HMS Dragon 军舰，应对中东局势",
+          "summary": "英国首相斯塔默确认将向塞浦路斯部署 HMS Dragon 驱逐舰及具备反无人机能力的直升机，以应对中东冲突外溢风险。",
+          "source": "Sky News",
+          "url": "https://news.sky.com/story/uk-will-deploy-hms-dragon-in-cyprus-sir-keir-starmer-confirms-13514741"
+        },
+        {
+          "title": "AI 正在改变现代战争形态：美国或已在伊朗战役中使用 AI 辅助打击",
+          "summary": "分析人士指出，美国可能已在对伊朗的军事行动中使用 AI 系统辅助目标识别和导弹打击决策。这标志着 AI 军事化应用从理论走向实战，同时也引发国际社会对 AI 战争伦理的深切担忧。",
+          "source": "Sky News",
+          "url": "https://news.sky.com/story/ai-could-be-giving-us-lethal-edge-in-iran-war-but-there-are-dangers-13514784"
+        },
+        {
+          "title": "中国呼吁各方保持克制，强调通过外交途径解决中东危机",
+          "summary": "面对美以对伊朗的军事行动，中国外交部发表声明，呼吁相关各方保持最大克制，避免局势进一步升级，强调应通过对话和外交途径化解危机，维护地区和平稳定。中国在中东地区有重要能源和经济利益。",
+          "source": "新华社",
+          "url": "https://english.news.cn"
+        }
+      ]
+    },
+    "startup_product": {
+      "title": "产品创业",
+      "items": [
+        {
+          "title": "2月全球风投创纪录达 1890 亿美元，OpenAI、Anthropic、Waymo 三家独占 83%",
+          "summary": "Crunchbase 数据显示，2026 年 2 月全球风险投资额达历史新高 1890 亿美元，是 1 月的三倍多。其中 AI 创业公司拿走 90%（1710 亿美元）。OpenAI 以 1100 亿美元融资领跑（估值 7300 亿美元），Anthropic 融资 300 亿（估值 3800 亿），Waymo 融资 160 亿（估值 1260 亿）。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/"
+        },
+        {
+          "title": "AI 编程工具 Cursor 年化收入突破 20 亿美元",
+          "summary": "据报道，AI 代码编辑器 Cursor 年化收入已超过 20 亿美元，成为近年来增长最快的开发者工具之一。这一数字印证了 AI 编程助手赛道的爆发式增长。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/"
+        },
+        {
+          "title": "AI 初创公司玩起"双价格"融资把戏，制造独角兽假象",
+          "summary": "部分 AI 创始人正在使用新型估值机制，以不同价格出售同一批股权，人为制造独角兽身份。这一现象引发投资界对 AI 泡沫的新一轮警惕。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
+        },
+        {
+          "title": "AI 客服创业公司 14.ai 正在替代初创企业的客服团队",
+          "summary": "由夫妻创始人创办的 14.ai 正在为初创公司提供 AI 客服替代方案，帮助企业完全取代人工客服团队。这是 AI Agent 在企业服务场景落地的最新案例。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
+        },
+        {
+          "title": "SaaS 末日论：AI 浪潮下传统 SaaS 模式正在瓦解",
+          "summary": "投资人和分析师指出，随着 AI Agent 能力提升，传统按席位收费的 SaaS 模式正面临根本性挑战。越来越多的投资人表示不再看好纯 SaaS 商业模式，转而寻找 AI-native 的产品形态。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/"
+        }
+      ]
+    }
+  }
+}
