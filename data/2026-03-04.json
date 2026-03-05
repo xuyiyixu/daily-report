@@ -7,13 +7,13 @@
       "items": [
         {
           "title": "阿里巴巴 Qwen 技术负责人突然离职，引发业界震动",
-          "summary": "阿里巴巴 Qwen 团队核心技术负责人 Junyang Lin 宣布从项目中"退出"，未说明原因。此前一天，阿里刚发布了 Qwen 3.5 小模型系列（0.8B~9B 参数）。多位同事和合作伙伴称其离开是"一个时代的终结"，Hugging Face APAC 生态负责人称这是 Qwen 项目的"巨大损失"。",
+          "summary": "阿里巴巴 Qwen 团队核心技术负责人 Junyang Lin 宣布从项目中\"退出\"，未说明原因。此前一天，阿里刚发布了 Qwen 3.5 小模型系列（0.8B~9B 参数）。多位同事和合作伙伴称其离开是\"一个时代的终结\"，Hugging Face APAC 生态负责人称这是 Qwen 项目的\"巨大损失\"。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
         },
         {
           "title": "ChatGPT 推出 GPT-5.3 Instant 模型，调整情绪化回应风格",
-          "summary": "OpenAI 发布新版 GPT-5.3 Instant 模型，重点改进之一是不再动辄叫用户"冷静"，减少过度情绪化的回应。此前用户对 ChatGPT 过于"说教"的风格多有抱怨。",
+          "summary": "OpenAI 发布新版 GPT-5.3 Instant 模型，重点改进之一是不再动辄叫用户\"冷静\"，减少过度情绪化的回应。此前用户对 ChatGPT 过于\"说教\"的风格多有抱怨。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/"
         },
@@ -30,8 +30,8 @@
           "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
         },
         {
-          "title": "AI 军事应用争议持续：美国科技工作者联名要求撤销对 Anthropic 的"供应链风险"标签",
-          "summary": "五角大楼此前将 Anthropic 列为"供应链风险"，引发 Google、OpenAI 等公司员工联名抗议，要求国会和国防部撤销该标签。这场 AI 与军事的边界之争正在重塑整个行业的政治格局。",
+          "title": "AI 军事应用争议持续：美国科技工作者联名要求撤销对 Anthropic 的\"供应链风险\"标签",
+          "summary": "五角大楼此前将 Anthropic 列为\"供应链风险\"，引发 Google、OpenAI 等公司员工联名抗议，要求国会和国防部撤销该标签。这场 AI 与军事的边界之争正在重塑整个行业的政治格局。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
         }
@@ -47,7 +47,7 @@
           "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"
         },
         {
-          "title": "伊朗互联网全面中断，黑客入侵祈祷 App 发送"起义"通知",
+          "title": "伊朗互联网全面中断，黑客入侵祈祷 App 发送\"起义\"通知",
           "summary": "空袭期间，伊朗互联网连接骤降至近零。黑客入侵伊朗祈祷应用 BadeSaba（逾 500 万下载），向用户推送反政府消息，呼吁民众起义。Cloudflare 和 Kentik 均确认伊朗网络全面瘫痪。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"
@@ -88,7 +88,7 @@
           "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/"
         },
         {
-          "title": "AI 初创公司玩起"双价格"融资把戏，制造独角兽假象",
+          "title": "AI 初创公司玩起\"双价格\"融资把戏，制造独角兽假象",
           "summary": "部分 AI 创始人正在使用新型估值机制，以不同价格出售同一批股权，人为制造独角兽身份。这一现象引发投资界对 AI 泡沫的新一轮警惕。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
